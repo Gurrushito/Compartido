@@ -4,7 +4,7 @@ import ejemplo.Entrada;;
 
 public class Ejercicios9 {
 public static void main(String[] args) {
-
+	// Patata asada
 	int numA=0, numB=0, numC=0;
 	
 	System.out.println("Introduce tres números enteros");
