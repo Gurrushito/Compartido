@@ -8,10 +8,10 @@ public static void main(String[] args) {
 
 	int numA=0, numB=0, numC=0;
 	
-	System.out.println("Introduce tres números enteros");
+	System.out.println("Introduce tres nÃºmeros enteros");
 	numA=Entrada.entero();
 	numB=Entrada.entero();
-	numC=Entrada.entero();
+	esta mal
 
 		if(numA+numB==numC) {
 			System.out.println("La suma de "+numA+" y "+numB+" es igual a "+numC);
@@ -27,7 +27,7 @@ public static void main(String[] args) {
 					System.out.println("La suma de "+numB+" y "+numC+" es igual a "+numA);
 				}
 				else {
-					System.out.println("Ningún resultado de la suma de dos de los numeros introducidos coinciden con el tercero");
+					System.out.println("NingÃºn resultado de la suma de dos de los numeros introducidos coinciden con el tercero");
 				}
 			}
 		}
