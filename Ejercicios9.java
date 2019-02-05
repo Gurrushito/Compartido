@@ -4,14 +4,14 @@ import ejemplo.Entrada;;
 
 public class Ejercicios9 {
 public static void main(String[] args) {
-	
+	// I have a feeling inside my bones
 
 	int numA=0, numB=0, numC=0;
 	
 	System.out.println("Introduce tres números enteros");
 	numA=Entrada.entero();
 	numB=Entrada.entero();
-	//esta mal
+	numC=Entrada.entero();
 
 		if(numA+numB==numC) {
 			System.out.println("La suma de "+numA+" y "+numB+" es igual a "+numC);
