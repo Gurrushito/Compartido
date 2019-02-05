@@ -11,7 +11,7 @@ public static void main(String[] args) {
 	System.out.println("Introduce tres números enteros");
 	numA=Entrada.entero();
 	numB=Entrada.entero();
-	esta mal
+	//esta mal
 
 		if(numA+numB==numC) {
 			System.out.println("La suma de "+numA+" y "+numB+" es igual a "+numC);
